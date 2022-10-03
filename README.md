@@ -35,7 +35,7 @@ Esta web nos permitirá crear y almacenar los diferentes repositorios que vayamo
 
 ### MARKDOWN!
 
-[capt 4 - apmd](https://user-images.githubusercontent.com/113420705/193621901-a67e8c02-139e-4ffd-a5fe-dc8a705c3621.png)
+! [capt 4 - apmd](https://user-images.githubusercontent.com/113420705/193621901-a67e8c02-139e-4ffd-a5fe-dc8a705c3621.png)
 
 El primer lenguaje de marcas que hemos visto en clase es Markdown. Es más, es el que estoy escribiendo ahora y el que me servirá de guía para mis apuntes. Pero como definiríamos a Markdown. Pues bien, Markdown es < Un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.
 
