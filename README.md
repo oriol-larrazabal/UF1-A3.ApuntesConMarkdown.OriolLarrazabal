@@ -9,11 +9,11 @@ Los primeros pasos que hemos llevado a cabo han sido la instalación de GIT, Vis
 
 ### Instalación de GIT
 
-
 >Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
 
 Para descargarlo hemos accedido a la página web de GIT, y nos hemos descargado la versión de 64 bits. 
 [GIT](https://git-scm.com/ "GIT")
+
 ![capt 1 - apmd](https://user-images.githubusercontent.com/113420705/193620980-203cf5a4-61b5-445f-8c5d-75ff68831667.png)
 
 ### Instalación de Visual Studio Code
@@ -22,14 +22,16 @@ Para descargarlo hemos accedido a la página web de GIT, y nos hemos descargado 
 
 Para descargarlo hemos accedido a la página web de Visual Studio code, y nos hemos descargado la versión de 64 bits.
 [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
+
 ![capt 3 - apmd](https://user-images.githubusercontent.com/113420705/193621791-a3392f9d-3b37-498b-8779-588fe4213c6b.png)
 
 ### GitHub
 >GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
 
-Esta web nos permitirá crear y almacenar los diferentes repositorios que vayamos haciendo en clase. Además, a través del CMD de nuestro ordenador podemos crear una cópia local para trabajar y una vez finalizada, o modificada, resubirlo a la rama que nos interese en GitHub. Los diferentes comando que utilizaremos en el CMD serán, 
+Esta web nos permitirá crear y almacenar los diferentes repositorios que vayamos haciendo en clase. Además, a través del CMD de nuestro ordenador podemos crear una cópia local para trabajar y una vez finalizada, o modificada, resubirlo a la rama que nos interese en GitHub. Los diferentes comando que utilizaremos en el CMD serán,[Lista de comandos GITHUB-CMD](https://gist.github.com/dasdo/9ff71c5c0efa037441b6 "Lista de comandos GITHUB-CMD")
+
 ![capt 2 - apmd](https://user-images.githubusercontent.com/113420705/193621834-9c9c9615-4b03-42ac-b57d-84d30e6e71dd.png)
-[Lista de comandos GITHUB-CMD](https://gist.github.com/dasdo/9ff71c5c0efa037441b6 "Lista de comandos GITHUB-CMD")
+
 
 ### MARKDOWN!
 
