@@ -26,7 +26,7 @@ Para descargarlo hemos accedido a la página web de Visual Studio code, y nos he
 ### GitHub
 >GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
 
-Esta web nos permitirá crear y almacenar los diferentes repositorios que vayamos haciendo en clase. Además, a través del CMD de nuestro ordenador podemos crear una cópia local para trabajar y una vez finalizada, o modificada, resubirlo a la rama que nos interese en GitHub. Los diferentes comando que utilizaremos en el CMD serán,[Lista de comandos GITHUB-CMD](https://gist.github.com/dasdo/9ff71c5c0efa037441b6 "Lista de comandos GITHUB-CMD")
+Esta web nos permitirá crear y almacenar los diferentes repositorios que vayamos haciendo en clase. Además, a través del CMD de nuestro ordenador podemos crear una cópia local para trabajar y una vez finalizada, o modificada, resubirlo a la rama que nos interese en GitHub. Los diferentes comando que utilizaremos en el CMD serán estos: [Lista de comandos GITHUB-CMD](https://gist.github.com/dasdo/9ff71c5c0efa037441b6 "Lista de comandos GITHUB-CMD")
 
 ![capt 2 - apmd](https://user-images.githubusercontent.com/113420705/193621834-9c9c9615-4b03-42ac-b57d-84d30e6e71dd.png)
 
