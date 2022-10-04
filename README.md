@@ -113,20 +113,20 @@ Este será siempre el primer paso de nuestro trabajo.
 El _HEAD_ es la cabecera de nuestro ficero HTML. Esta parte no se ve cuando la carga nuestro navegador y en ella esta la información como el título, que lo ubicaremos dentro del <title>, enlaces al CSS, si queremos aplicar estilo a nuestro código HTML, personalizar el favicon, cambiar el charset, para que nuestro código HTML entienda determinados carácteres, como acentos, podemos activar scripts, como por ejemplo, cuando agregamos el código .js personal que nos otorga *Font Awesome* para introducir diferentes *favicons*.
 
 En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
-  - Introducir párrafos a través del comando <p> texto </p>
-  - Crear hipervínculos de páginas web gracias al comando: <a href="https://google.es" Ejemplo de URL </a>
-  - Introducir imágenes gracias al comando: <img src="/img/ejemplo"> alt="Ejemplo de IMG">
+  - Introducir párrafos a través del comando ``<p> texto </p>``
+  - Crear hipervínculos de páginas web gracias al comando: ``<a href="https://google.es" Ejemplo de URL </a>``
+  - Introducir imágenes gracias al comando: ``<img src="/img/ejemplo"> alt="Ejemplo de IMG">``
   - Crar listas ordenadas, con el comando <ol>, y poniendo <li> en cada elemento. Un ejemplo sería: 
-  <ol>
+  ``<ol>
   <li>Elemento1</li>
   <li>Elemento2</li>
   ...
   <li>ElementoN</li>
-</ol>
+</ol>``
   - Crear listas desordenadas, como por ejemplo
-  <ul>
+  ``<ul>
   <li>Camisetas</li>
   <li>Gorras</li>
   <li>Sudaderas</li>
-</ul>
+</ul>``
 
