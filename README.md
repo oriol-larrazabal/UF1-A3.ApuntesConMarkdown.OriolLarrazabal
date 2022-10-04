@@ -109,6 +109,8 @@ Este será siempre el primer paso de nuestro trabajo.
 </html>
 
 ```
-El HEAD es la cabecera de nuestro ficero HTML. Esta parte no se ve cuando la carga nuestro navegador y en ella esta la información como el título, que lo ubicaremos dentro del <title>, enlaces al CSS, si queremos aplicar estilo a nuestro código HTML, personalizar el favicon, cambiar el charset, para que nuestro código HTML entienda determinados carácteres, como acentos, podemos activar scripts, como por ejemplo, cuando agregamos el código .js personal que nos otorga Font Awesome para 
+El _HEAD_ es la cabecera de nuestro ficero HTML. Esta parte no se ve cuando la carga nuestro navegador y en ella esta la información como el título, que lo ubicaremos dentro del <title>, enlaces al CSS, si queremos aplicar estilo a nuestro código HTML, personalizar el favicon, cambiar el charset, para que nuestro código HTML entienda determinados carácteres, como acentos, podemos activar scripts, como por ejemplo, cuando agregamos el código .js personal que nos otorga *Font Awesome* para introducir diferentes *favicons*.
+
+En el _BODY_
 
 
