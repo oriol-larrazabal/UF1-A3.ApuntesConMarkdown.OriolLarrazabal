@@ -39,6 +39,7 @@ El primer lenguaje de marcas que hemos visto en clase es Markdown. Es más, es e
 >Un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.
 
 De Markdown hemos visto:
+
 a) Los diferentes encabezados
 
 En Markdown podemos utilizar hasta 6 diferentes encabezados, que van de mayor a menor tamaño. Para introducir un encabezado sólo tenemos que introducir una almohadilla o hashtag al principio de nuestro párrafo. Según el número de almohadillas que introduzcamos el encabezado será mayor o menor. 
@@ -111,6 +112,21 @@ Este será siempre el primer paso de nuestro trabajo.
 ```
 El _HEAD_ es la cabecera de nuestro ficero HTML. Esta parte no se ve cuando la carga nuestro navegador y en ella esta la información como el título, que lo ubicaremos dentro del <title>, enlaces al CSS, si queremos aplicar estilo a nuestro código HTML, personalizar el favicon, cambiar el charset, para que nuestro código HTML entienda determinados carácteres, como acentos, podemos activar scripts, como por ejemplo, cuando agregamos el código .js personal que nos otorga *Font Awesome* para introducir diferentes *favicons*.
 
-En el _BODY_
-
+En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
+  - Introducir párrafos a través del comando <p> texto </p>
+  - Crear hipervínculos de páginas web gracias al comando: <a href="https://google.es" Ejemplo de URL </a>
+  - Introducir imágenes gracias al comando: <img src="/img/ejemplo"> alt="Ejemplo de IMG">
+  - Crar listas ordenadas, con el comando <ol>, y poniendo <li> en cada elemento. Un ejemplo sería: 
+  <ol>
+  <li>Elemento1</li>
+  <li>Elemento2</li>
+  ...
+  <li>ElementoN</li>
+</ol>
+  - Crear listas desordenadas, como por ejemplo
+  <ul>
+  <li>Camisetas</li>
+  <li>Gorras</li>
+  <li>Sudaderas</li>
+</ul>
 
