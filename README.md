@@ -28,6 +28,8 @@ Para descargarlo hemos accedido a la página web de Visual Studio code, y nos he
 
 Esta web nos permitirá crear y almacenar los diferentes repositorios que vayamos haciendo en clase. Además, a través del CMD de nuestro ordenador podemos crear una cópia local para trabajar y una vez finalizada, o modificada, resubirlo a la rama que nos interese en GitHub. Los diferentes comando que utilizaremos en el CMD serán estos: [Lista de comandos GITHUB-CMD](https://gist.github.com/dasdo/9ff71c5c0efa037441b6 "Lista de comandos GITHUB-CMD")
 
+Sobretodo, uno de los grandes problemas que hemos tenido al crear la cuenta ha sido al configurarlo con nuestro PC. Así que recomiendo que se preste mucha atención a los dos primeros puntos del enlace.
+
 ![capt 2 - apmd](https://user-images.githubusercontent.com/113420705/193621834-9c9c9615-4b03-42ac-b57d-84d30e6e71dd.png)
 
 
