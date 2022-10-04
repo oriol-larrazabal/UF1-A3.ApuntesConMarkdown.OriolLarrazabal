@@ -115,7 +115,7 @@ El _HEAD_ es la cabecera de nuestro ficero HTML. Esta parte no se ve cuando la c
 En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   - Introducir párrafos a través del comando ``<p> texto </p>``
   - Crear hipervínculos de páginas web gracias al comando: ``<a href="https://google.es" Ejemplo de URL </a>``
-  - Introducir imágenes gracias al comando: ``<img src="/img/ejemplo"> alt="Ejemplo de IMG">``
+  - Introducir imágenes gracias al comando: ``<img src="![image](https://user-images.githubusercontent.com/113420705/193840496-f97e6ad7-8d93-470b-8967-9ea393c5f659.png)"> alt="Ejemplo de IMG">``
   - Crar listas ordenadas, con el comando <ol>, y poniendo <li> en cada elemento. Un ejemplo sería: 
   ``<ol>
   <li>Elemento1</li>
