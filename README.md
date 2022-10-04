@@ -74,9 +74,9 @@ Por ejemplo: [Enlace a wikipedia](https://es.wikipedia.org "Haciendo click vas a
 f) Cómo crear tablas
 
 Para finalizar, tambien nos permite crear tablas. Para crar una tabla tenemos que introducir "|" el texto y en la segunda línea el como queremos alinear el texto, podemos verlo
-*1 :----------: --> centrado
-*2 :----------- --> alineado a la izquierda 
-*3 -----------: --> alineado a la derecha
+- ----------: --> centrado
+- :----------- --> alineado a la izquierda 
+- -----------: --> alineado a la derecha
 
 La siguiente tabla nos servirá de ejemplo:
 
