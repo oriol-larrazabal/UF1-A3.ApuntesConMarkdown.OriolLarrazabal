@@ -118,10 +118,11 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   - Introducir imágenes gracias al comando: ``<img src="https://user-images.githubusercontent.com/113420705/193840496-f97e6ad7-8d93-470b-8967-9ea393c5f659.png"> alt="Ejemplo de IMG">``
   - Crear listas ordenadas, con el comando ``<ol>``, y poniendo ``<li>``en cada elemento. Un ejemplo sería: 
   ``<ol>
+  <1> Elemento 1 <1>
   
 </ol>``
   - Crear listas desordenadas, como por ejemplo
   ``<ul>
-
+<li> Elemento 1 <li>
 </ul>``
 
