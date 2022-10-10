@@ -177,7 +177,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
   + Práctica 4 - UF1A4_OriolLarrazabal_menusaludable
   
-    [Enlace a Práctica 4](https://github.com/oriol-larrazabal/UF1A4_OriolLarrazabal_menusaludable "Enlace a práctica 4")
+   [Enlace a Práctica 4](https://github.com/oriol-larrazabal/UF1A4_OriolLarrazabal_menusaludable "Enlace a práctica 4")
   
   + Práctica 5 -
   
