@@ -120,67 +120,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   - Crear listas desordenadas, con el comando ``<ul>``, y poniendo ``<li>`` en cada elemento.
   
   #### Ejemplo de código HTML aplicando todos los conceptos:
-``
-  Ejemplo.html
-
-<!DOCTYPE html>
- <!-- Ejemplo de código HTML para los apuntes de GitHub.-->
-  <html lang="eng">
-  <head>
-      <meta charset="UTF-8"> 
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title> Web Browsers </title>
-      <script src="https://kit.fontawesome.com/28967b4684.js" crossorigin="anonymous"></script>
-      <i class="fa-solid fa-house-user"></i>
-  </head>
-
-  <body> 
-  <h1> Ejemplo de código HTML </h1>
-    <h2> Segundo encabezado </h2>
-
-    <p> HTML --> Ejemplo de párrafo </p>
-    <br> 
-    <a>  href="https://google.es" Ejemplo de URL </a>
-    <br> 
-    <img src="https://user-images.githubusercontent.com/113420705/193840496-f97e6ad7-8d93-470b-8967-9ea393c5f659.png"> alt="Ejemplo de IMG">
-    <br> 
-    <p> Ejemplo de lista ordenada </p>
-    <ol>
-        <li>Elemento 1</li>
-        <li>Elemento 2</li>
-        ...
-        <li>Elemento N</li>
-      </ol>
-      
-    <br> 
-    <p> Ejemplo de lista desordenada </p>
-    <ul>
-        <li>Elemento 1</li>
-        <li>Elemento 2</li>
-        ...
-        <li>Elemento N</li>
-      </ul>
-
-    <br> 
-    <p> Ejemplo de lista anidada </p>
-    <ul>
-        <li>Elemento 1</li>
-        <li>Elemento 2</li>
-        <li>
-          <ol>
-            <li>Elemento 2.1</li>
-            <li>Elemento 2.2</li>
-            ...
-            <li>Elemento 2.N</li>
-          </ol>
-        </li>
-        <li>Elemento 3</li>
-        ...
-        <li>Elemento N</li>
-      </ul>
+  [Ejemplo de código HTML](https://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Ejemplo de código HTML")
 
 
-</body>
-    ``
 
