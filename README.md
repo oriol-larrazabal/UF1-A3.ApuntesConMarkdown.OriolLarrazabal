@@ -135,7 +135,6 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   - Crear listas ordenadas, con el comando ``<ol>``, y poniendo ``<li>``en cada elemento. 
   - Crear listas desordenadas, con el comando ``<ul>``, y poniendo ``<li>`` en cada elemento.
   
-[Vídeo tutorial introducción al código HTML]https://www.youtube.com/watch?v=1x-M_OMf8xY&ab_channel=KikoPalomareshttps://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Vídeo tutorial introducción al código HTML")
   
   #### Ejemplo de código HTML aplicando todos los conceptos:
   
