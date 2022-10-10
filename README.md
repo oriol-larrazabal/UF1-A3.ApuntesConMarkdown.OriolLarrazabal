@@ -89,6 +89,8 @@ La siguiente tabla nos servirá de ejemplo:
 | Item2        | Lápices      | 50           |
 | Item3        | Grapadoras   | 80           |
 
+En el siguiente enlace os dejó un vídeo de introducción a Markdown: [Tutorial introductorio a Markdown](https://www.youtube.com/watch?v=oxaH9CFpeEE&ab_channel=FaztCode "Haciendo click vas al videtutorial.")
+
 ### HTML
 HTML es el segundo lenguaje de marcas que hemos visto. HTML se define como un lenguaje de marcas estándard para crear páginas web y su código es:
 Este será siempre el primer paso de nuestro trabajo.
