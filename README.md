@@ -32,7 +32,7 @@ Sobretodo, uno de los grandes problemas que hemos tenido al crear la cuenta ha s
 
 ![capt 2 - apmd](https://user-images.githubusercontent.com/113420705/193621834-9c9c9615-4b03-42ac-b57d-84d30e6e71dd.png)
 
-Además, dejo este manual introductorio por si existen dudas. [Manual GITHUB](https://www.uco.es/aulasoftwarelibre/wp-content/uploads/2015/11/git-cosfera-dia-1.pdf "Manual GITHUB")
+Además, dejo este manual introductorio por si existen dudas : [Manual GITHUB](https://www.uco.es/aulasoftwarelibre/wp-content/uploads/2015/11/git-cosfera-dia-1.pdf "Manual GITHUB")
 
 
 ### MARKDOWN!
