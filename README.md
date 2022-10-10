@@ -187,3 +187,11 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
    [Enlace a Práctica 5](https://github.com/oriol-larrazabal/ "Enlace a práctica 5")
   
+  + Práctica 6 -
+  
+   [Enlace a Práctica 6](https://github.com/oriol-larrazabal/ "Enlace a práctica 6")
+  
+  + Práctica 7 -
+  
+   [Enlace a Práctica 7](https://github.com/oriol-larrazabal/ "Enlace a práctica 7")
+  
