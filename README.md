@@ -38,6 +38,10 @@ Sobretodo, uno de los grandes problemas que hemos tenido al crear la cuenta ha s
 El primer lenguaje de marcas que hemos visto en clase es Markdown. Es más, es el que estoy escribiendo ahora y el que me servirá de guía para mis apuntes. Pero como definiríamos a Markdown. Pues bien, Markdown es: 
 >Un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.
 
+>John Gruber creó el lenguaje Markdown en 2004, con una ayuda importante de Aaron Swartz en la sintaxis. Gruber tenía la meta de hacer que la gente «pudiera escribir usando un formato de texto llano fácil de leer, fácil de escribir y con la posibilidad de convertir su documento en HTML válido». La clave del diseño de Markdown es la facilidad de su lectura, que hace que el lenguaje sea fácilmente interpretado, sin lucir como si hubiera sido marcado con etiquetas o instrucciones de estilo, como RTF o HTML, los cuales tienen etiquetas que hacen más difícil su lectura e interpretación. Por ello, su inspiración más importante son las convenciones existentes para formatear texto llano en los mensajes electrónicos, aunque también toma características de lenguajes anteriores, como setext, atx (por Aaron Swartz), Textile, reStructuredText, Grutatext, y EtText).
+
+!![john-gruber-and-aaron-swartz-photo-from-wiki](https://user-images.githubusercontent.com/113420705/194956175-05b28618-81ff-4a7b-8fbf-782e9122e5e0.jpg)
+
 De Markdown hemos visto:
 
 a) Los diferentes encabezados
@@ -92,6 +96,14 @@ La siguiente tabla nos servirá de ejemplo:
 En el siguiente enlace os dejó un vídeo de introducción a Markdown: [Tutorial introductorio a Markdown](https://www.youtube.com/watch?v=oxaH9CFpeEE&ab_channel=FaztCode "Haciendo click vas al videtutorial.")
 
 ### HTML
+
+>El origen de HTML se remonta a 1980, cuando el físico Tim Berners-Lee, trabajador del CERN (Organización Europea para la Investigación Nuclear) propuso un nuevo sistema de "hipertexto" para compartir documentos.
+
+![1366_2000](https://user-images.githubusercontent.com/113420705/194956474-92d66862-8fa8-4580-bbc0-a1df77ac4c3a.jpg)
+
+
+>HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).
+
 HTML es el segundo lenguaje de marcas que hemos visto. HTML se define como un lenguaje de marcas estándard para crear páginas web y su código es:
 Este será siempre el primer paso de nuestro trabajo.
 
@@ -120,6 +132,8 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   - Introducir imágenes gracias al comando: ``<img src="https://user-images.githubusercontent.com/113420705/193840496-f97e6ad7-8d93-470b-8967-9ea393c5f659.png"> alt="Ejemplo de IMG">``
   - Crear listas ordenadas, con el comando ``<ol>``, y poniendo ``<li>``en cada elemento. 
   - Crear listas desordenadas, con el comando ``<ul>``, y poniendo ``<li>`` en cada elemento.
+  
+  [Vídeo tutorial introducción al código HTML]https://www.youtube.com/watch?v=1x-M_OMf8xY&ab_channel=KikoPalomareshttps://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Vídeo tutorial introducción al código HTML")
   
   #### Ejemplo de código HTML aplicando todos los conceptos:
   [Ejemplo de código HTML](https://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Ejemplo de código HTML")
