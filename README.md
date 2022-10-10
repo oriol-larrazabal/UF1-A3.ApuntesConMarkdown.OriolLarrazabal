@@ -62,7 +62,7 @@ Para resaltar una palabra o poner enfásis en una frase, Markdown nos permite ut
 
 c) Cómo crear listas 
 
-Otra característica del lenguaje Markdown es que podemos crear listas, tanto ordenadas como desordenadas. En primer lugar, para crear una lista ordenada tendremos que introducir un asterísco y un guión. Como por ejemplo:
+Otra característica del lenguaje Markdown es que podemos crear listas, tanto ordenadas como desordenadas. En primer lugar, para crear una lista ordenada tendremos que introducir un asterísco o un guión. 
 
 
 d) Cómo introducir imágenes
@@ -159,3 +159,25 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   [Vídeo tutorial introducción a Responsive] (https://www.youtube.com/watch?v=OPo3-mQ8wdY&ab_channel=KODOTI "Vídeo tutorial introducción a Responsive")
 
 
+### Prácticas 
+  
+  En el siguiente apartado voy a enlazar todas las prácticas para tenerlas a mano a la hora de repasar o estudiar. Así haremos unos apuntes prácticos a la vez.
+  
+  + Práctica 1 - Repaso GitHub
+  
+  [Enlace a Práctica 1](https://github.com/oriol-larrazabal/RepasoGitHub "Enlace a práctica 1")
+  
+  + Práctica 2 - Mi primer HTML
+  
+   [Enlace a Práctica 2](https://github.com/oriol-larrazabal/ASIX1_M4UF1A4_primer_HTML_LarrazabalOriol "Enlace a práctica 2")
+  
+  + Práctica 3 - UF1-A2.DocumentarConMarkdown.OriolLarrazabal
+  
+[Enlace a Práctica 3](https://github.com/oriol-larrazabal/UF1-A2.DocumentarConMarkdown.OriolLarrazabal "Enlace a práctica 3")
+  
+  + Práctica 4 - UF1A4_OriolLarrazabal_menusaludable
+  
+  [Enlace a Práctica 4](https://github.com/oriol-larrazabal/UF1A4_OriolLarrazabal_menusaludable "Enlace a práctica 4)
+  
+  
+  
