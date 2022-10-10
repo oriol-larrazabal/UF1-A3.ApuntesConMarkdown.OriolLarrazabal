@@ -151,16 +151,16 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
   >La propuesta CHSS fue realizada por Håkon Wium Lie y SSP fue propuesto por Bert Bos. Entre finales de 1994 y 1995 Lie y Bos se unieron para definir un nuevo lenguaje que tomaba lo mejor de cada propuesta y lo llamaron CSS (Cascading Style Sheets).
   
-  ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg)
-  
-  [Vídeo tutorial introducción a CSS] (https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
+  ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg) 
+
+[Vídeo tutorial introducción a CSS](https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
 
 
   ### Responsive
   
   >El diseño web responsive o adaptativo es una técnica de diseño web que busca la correcta visualización de una misma página en distintos dispositivos. Desde ordenadores de escritorio a tablets y móviles. Se trata de redimensionar y colocar los elementos de la web de forma que se adapten al ancho de cada dispositivo permitiendo una correcta visualización y una mejor experiencia de usuario. Se caracteriza porque los layouts (contenidos) e imágenes son fluidos y se usa código media-queries de CSS3.
-
-[Vídeo tutorial introducción a Responsive] (https://www.youtube.com/watch?v=OPo3-mQ8wdY&ab_channel=KODOTI "Vídeo tutorial introducción a Responsive")
+  
+[Vídeo tutorial introducción a Responsive](https://www.youtube.com/watch?v=OPo3-mQ8wdY&ab_channel=KODOTI "Vídeo tutorial introducción a Responsive")
 
 
 ### Prácticas 
