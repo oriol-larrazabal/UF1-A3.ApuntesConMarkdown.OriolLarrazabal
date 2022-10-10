@@ -135,9 +135,12 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   - Crear listas ordenadas, con el comando ``<ol>``, y poniendo ``<li>``en cada elemento. 
   - Crear listas desordenadas, con el comando ``<ul>``, y poniendo ``<li>`` en cada elemento.
   
-  [Vídeo tutorial introducción al código HTML]https://www.youtube.com/watch?v=1x-M_OMf8xY&ab_channel=KikoPalomareshttps://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Vídeo tutorial introducción al código HTML")
+[Vídeo tutorial introducción al código HTML]https://www.youtube.com/watch?v=1x-M_OMf8xY&ab_channel=KikoPalomareshttps://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Vídeo tutorial introducción al código HTML")
   
   #### Ejemplo de código HTML aplicando todos los conceptos:
+  
+  Adjunto este código creado por mi mismo aplicando todos los diferentes conceptos que hemos visto en HTML hasta el momento.
+  
   [Ejemplo de código HTML](https://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Ejemplo de código HTML")
   
   ### CSS
@@ -157,8 +160,8 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   ### Responsive
   
   >El diseño web responsive o adaptativo es una técnica de diseño web que busca la correcta visualización de una misma página en distintos dispositivos. Desde ordenadores de escritorio a tablets y móviles. Se trata de redimensionar y colocar los elementos de la web de forma que se adapten al ancho de cada dispositivo permitiendo una correcta visualización y una mejor experiencia de usuario. Se caracteriza porque los layouts (contenidos) e imágenes son fluidos y se usa código media-queries de CSS3.
-  
-  [Vídeo tutorial introducción a Responsive] (https://www.youtube.com/watch?v=OPo3-mQ8wdY&ab_channel=KODOTI "Vídeo tutorial introducción a Responsive")
+
+[Vídeo tutorial introducción a Responsive] (https://www.youtube.com/watch?v=OPo3-mQ8wdY&ab_channel=KODOTI "Vídeo tutorial introducción a Responsive")
 
 
 ### Prácticas 
