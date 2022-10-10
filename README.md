@@ -121,6 +121,10 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
   #### Ejemplo de código HTML aplicando todos los conceptos:
   [Ejemplo de código HTML](https://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Ejemplo de código HTML")
+  
+  ### CSS
+  
+  >CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (en-US) (incluyendo varios languages basados en XML como SVG, MathML o XHTML). CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios.
 
 
 
