@@ -165,7 +165,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
   + Práctica 1 - Repaso GitHub
   
-  [Enlace a Práctica 1](https://github.com/oriol-larrazabal/RepasoGitHub "Enlace a práctica 1")
+   [Enlace a Práctica 1](https://github.com/oriol-larrazabal/RepasoGitHub "Enlace a práctica 1")
   
   + Práctica 2 - Mi primer HTML
   
@@ -173,11 +173,11 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
   + Práctica 3 - UF1-A2.DocumentarConMarkdown.OriolLarrazabal
   
-[Enlace a Práctica 3](https://github.com/oriol-larrazabal/UF1-A2.DocumentarConMarkdown.OriolLarrazabal "Enlace a práctica 3")
+   [Enlace a Práctica 3](https://github.com/oriol-larrazabal/UF1-A2.DocumentarConMarkdown.OriolLarrazabal "Enlace a práctica 3")
   
   + Práctica 4 - UF1A4_OriolLarrazabal_menusaludable
   
-  [Enlace a Práctica 4](https://github.com/oriol-larrazabal/UF1A4_OriolLarrazabal_menusaludable "Enlace a práctica 4)
+    [Enlace a Práctica 4](https://github.com/oriol-larrazabal/UF1A4_OriolLarrazabal_menusaludable "Enlace a práctica 4)
   
   
   
