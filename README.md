@@ -40,7 +40,7 @@ El primer lenguaje de marcas que hemos visto en clase es Markdown. Es más, es e
 
 >John Gruber creó el lenguaje Markdown en 2004, con una ayuda importante de Aaron Swartz en la sintaxis. Gruber tenía la meta de hacer que la gente «pudiera escribir usando un formato de texto llano fácil de leer, fácil de escribir y con la posibilidad de convertir su documento en HTML válido». La clave del diseño de Markdown es la facilidad de su lectura, que hace que el lenguaje sea fácilmente interpretado, sin lucir como si hubiera sido marcado con etiquetas o instrucciones de estilo, como RTF o HTML, los cuales tienen etiquetas que hacen más difícil su lectura e interpretación. Por ello, su inspiración más importante son las convenciones existentes para formatear texto llano en los mensajes electrónicos, aunque también toma características de lenguajes anteriores, como setext, atx (por Aaron Swartz), Textile, reStructuredText, Grutatext, y EtText).
 
-!![john-gruber-and-aaron-swartz-photo-from-wiki](https://user-images.githubusercontent.com/113420705/194956175-05b28618-81ff-4a7b-8fbf-782e9122e5e0.jpg)
+![john-gruber-and-aaron-swartz-photo-from-wiki](https://user-images.githubusercontent.com/113420705/194956175-05b28618-81ff-4a7b-8fbf-782e9122e5e0.jpg)
 
 De Markdown hemos visto:
 
@@ -141,9 +141,21 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   ### CSS
   
   >CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (en-US) (incluyendo varios languages basados en XML como SVG, MathML o XHTML). CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios.
+  
+  ![aprender-css](https://user-images.githubusercontent.com/113420705/194956966-8df737b7-7dfe-418d-a9fa-22514201687a.jpg)
+
+  
+  >La propuesta CHSS fue realizada por Håkon Wium Lie y SSP fue propuesto por Bert Bos. Entre finales de 1994 y 1995 Lie y Bos se unieron para definir un nuevo lenguaje que tomaba lo mejor de cada propuesta y lo llamaron CSS (Cascading Style Sheets).
+  
+  ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg)
+  
+  [Vídeo tutorial introducción a CSS] (https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
+
 
   ### Responsive
   
   >El diseño web responsive o adaptativo es una técnica de diseño web que busca la correcta visualización de una misma página en distintos dispositivos. Desde ordenadores de escritorio a tablets y móviles. Se trata de redimensionar y colocar los elementos de la web de forma que se adapten al ancho de cada dispositivo permitiendo una correcta visualización y una mejor experiencia de usuario. Se caracteriza porque los layouts (contenidos) e imágenes son fluidos y se usa código media-queries de CSS3.
+  
+  [Vídeo tutorial introducción a Responsive] (https://www.youtube.com/watch?v=OPo3-mQ8wdY&ab_channel=KODOTI "Vídeo tutorial introducción a Responsive")
 
 
