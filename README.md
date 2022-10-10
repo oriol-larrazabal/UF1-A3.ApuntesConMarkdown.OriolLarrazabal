@@ -161,7 +161,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
 
 ### Prácticas 
   
-  En el siguiente apartado voy a enlazar todas las prácticas para tenerlas a mano a la hora de repasar o estudiar. Así haremos unos apuntes prácticos a la vez.
+  En el siguiente apartado voy a enlazar todas las prácticas para tenerlas a mano a la hora de repasar o estudiar. Así haremos unos apuntes que sean prácticos a la vez.
   
   + Práctica 1 - Repaso GitHub
   
