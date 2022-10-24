@@ -1,4 +1,9 @@
 ##### UF1-A3.ApuntesConMarkdown.OriolLarrazabal
+# Quién soy?
+
+Hola a todos! Soy Oriol Larrazábal, alumno de ASIX 1. A continuación os presento mis apuntes con Markdown del módulo lenguaje de marcas! Espero que os gusten!
+([Oriol Larrazábal]https://github.com/oriol-larrazabal"Perfil GitHub")
+
 # Apuntes con Markdown!
 
 ### Primeros pasos
