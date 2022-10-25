@@ -152,12 +152,14 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   >CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (en-US) (incluyendo varios languages basados en XML como SVG, MathML o XHTML). CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios.
   
   ![aprender-css](https://user-images.githubusercontent.com/113420705/194956966-8df737b7-7dfe-418d-a9fa-22514201687a.jpg)
-
   
   >La propuesta CHSS fue realizada por Håkon Wium Lie y SSP fue propuesto por Bert Bos. Entre finales de 1994 y 1995 Lie y Bos se unieron para definir un nuevo lenguaje que tomaba lo mejor de cada propuesta y lo llamaron CSS (Cascading Style Sheets).
   
   ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg) 
-
+ 
+ En los dos próximos links os dejo, por un lado una web que me ha ayudado mucho con CSS, y, por otro, un tutorial de introducción a CSS como repaso.
+ 
+[Foro Códigos más importantes CSS] (https://www.eniun.com/que-es-css-cascading-style-sheets/ "CSS")
 [Vídeo tutorial introducción a CSS](https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
 
 ### Responsive
