@@ -166,7 +166,6 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
 [Vídeo tutorial introducción a Responsive](https://www.youtube.com/watch?v=OPo3-mQ8wdY&ab_channel=KODOTI "Vídeo tutorial introducción a Responsive")
 
-
 ### Prácticas 
   
   En el siguiente apartado voy a enlazar todas las prácticas para tenerlas a mano a la hora de repasar o estudiar. Así haremos unos apuntes que sean prácticos a la vez.
