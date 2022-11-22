@@ -149,14 +149,29 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
 ### CSS
   
-  >CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (en-US) (incluyendo varios languages basados en XML como SVG, MathML o XHTML). CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios.
+  >CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (en-US) (incluyendo varios languages basados en XML como SVG, MathML o XHTML). CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios. En resumen, CSS nos permite personalizar a nuestro gusto como se verá nuestro documento, es la parte que se encarga más del diseño.
  
  ![aprender-css](https://user-images.githubusercontent.com/113420705/194956966-8df737b7-7dfe-418d-a9fa-22514201687a.jpg)
   
   >La propuesta CHSS fue realizada por Håkon Wium Lie y SSP fue propuesto por Bert Bos. Entre finales de 1994 y 1995 Lie y Bos se unieron para definir un nuevo lenguaje que tomaba lo mejor de cada propuesta y lo llamaron CSS (Cascading Style Sheets).
   
- ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg) 
- 
+ ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg)
+  
+ Los detalles que hemos visto hasta el momento más importantes son:
+ - Selector de elementos - Corresponde con todos los elementos de este nombre en la página.
+ - Selector de clase - Corresponde con todos los elementos que tengan el atributo class con el valor especificado.
+ - Selector de id -Corresponde a todos los elementos HTML que tienen un atributo id con el valor especificado.
+ - Selectores universales - Sirven para seleccionar todos los elementos de la página. En el  ejemplo, todos los elementos han de tener un borde solido negro de un pixel:
+ - Selectores de atributos - Permiten seleccionar elementos en función de los atributos que contienen.
+ - Selectores de hijos - Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos.
+ - Selectores de descendientes - Similar al selector de hijos pero, a diferencia de ellos, que solo seleccionan elementos descendientes DIRECTOS, los selectores de descendientes seleccionan los elementos pertinentes EN CUALQUIER PUNTO de la jerarquía del elemento.
+ - Pseudoclases - Se utilizan para definir estilos, no para los elementos sino para los diversos estados de los elementos.
+ - Pseudoelementos - Como las pseudoclases no afectan a todo el elemento sino que permiten añadir estilos a UNA PARTE CONCRETA del documento.
+ - Composición - Margen (margin) Representan el área transparente que rodea la caja. Es decir, el espacio que la separará de los elementos contiguos. La propiedad margen se puede desplegar a su vez en cuatro propiedades además del valor “margin” como propiedad global: top, bottom, right, left. Las 4 propiedas son píxeles, porcentaje, automático, como referencia del valor del font-size del elemento actual o del html.
+ - Bordes (border). Representan el estilo que tendrán los bordes del elemento: border: [border-width || border-style || border-color | inherit] ;
+ - Relleno (padding). Espacio entre el borde del elemento y su contenido. De la propiedad “padding” se derivan al igual que las otras propiedades anteriores en cuatro propiedades específicas a los cuatro lados, padding-top, padding-right, padding-bottom y padding-left.
+  
+  
  En los dos próximos links os dejo, por un lado una web que me ha ayudado mucho con CSS, y, por otro, un tutorial de introducción a CSS como repaso.
   
 [Foro Códigos más importantes CSS](https://www.eniun.com/que-es-css-cascading-style-sheets "CSS")
