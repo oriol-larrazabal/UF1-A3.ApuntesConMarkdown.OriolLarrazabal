@@ -158,7 +158,9 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg) 
  
  En los dos próximos links os dejo, por un lado una web que me ha ayudado mucho con CSS, y, por otro, un tutorial de introducción a CSS como repaso.
- 
+
+
+  
 [Foro Códigos más importantes CSS] (https://www.eniun.com/que-es-css-cascading-style-sheets/ "CSS")
 [Vídeo tutorial introducción a CSS](https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
 
@@ -200,3 +202,8 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
    [Enlace a Práctica 7](https://github.com/oriol-larrazabal/ASIX1_M4UF1A7_DoItYourself_OriolLarrazabal "Enlace a práctica 7")
   
+  ### PROYECTO
+  
+  Cómo proyecto, estoy realizando con algunos compañeros una página web que englobe todos los apuntes de las diferentes asignaturas. Espero que os guste :P
+  
+  [Enlace a WEB PROYECTO](https://github.com/oriol-larrazabal/Apuntes_Asix1 "ENLACE A WEB PROYECTO")
