@@ -158,11 +158,11 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
  ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg) 
  
  En los dos próximos links os dejo, por un lado una web que me ha ayudado mucho con CSS, y, por otro, un tutorial de introducción a CSS como repaso.
-
-
   
 [Foro Códigos más importantes CSS](https://www.eniun.com/que-es-css-cascading-style-sheets "CSS")
 [Vídeo tutorial introducción a CSS](https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
+  
+ Además, incluyo este código
 
 ### Responsive
   
