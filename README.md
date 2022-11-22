@@ -176,7 +176,6 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
     <head>
         <!-- Inserción de origen de fontawesome-->
         <script src="https://kit.fontawesome.com/09f87768b9.js" crossorigin="anonymous"></script>
-
         <!-- Opción 1 para insertar Google Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
