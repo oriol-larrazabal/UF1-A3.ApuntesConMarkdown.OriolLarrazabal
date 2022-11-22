@@ -196,7 +196,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
    [Enlace a Práctica 6](https://github.com/oriol-larrazabal/ASIX1_M4UF1A6_Selectores_CSS_OriolLarrazabal "Enlace a práctica 6")
   
-  + Práctica 7 -https://github.com/oriol-larrazabal/ASIX1_M4UF1A7_DoItYourself_OriolLarrazabal
+  + Práctica 7 - ASIX1_M4UF1A7_DoItYourself_OriolLarrazabal
   
    [Enlace a Práctica 7](https://github.com/oriol-larrazabal/ASIX1_M4UF1A7_DoItYourself_OriolLarrazabal "Enlace a práctica 7")
   
