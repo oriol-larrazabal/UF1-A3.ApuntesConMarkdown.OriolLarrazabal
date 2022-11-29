@@ -227,7 +227,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
   [Enlace a Práctica 9](https://github.com/oriol-larrazabal/https-github.com-JoanBecerril-ASIX1_M4UF1_DoItYourself_CLON3_OriolLarrazabal "Enlace a práctica 9")
   
-  ### PROYECTO
+  ### Proyecto
   
   Cómo proyecto, estoy realizando con algunos compañeros una página web que englobe todos los apuntes de las diferentes asignaturas. Espero que os guste :P
   
