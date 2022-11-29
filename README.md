@@ -172,30 +172,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
  - Margen (margin) Representan el área transparente que rodea la caja. Es decir, el espacio que la separará de los elementos contiguos. La propiedad margen se puede desplegar a su vez en cuatro propiedades además del valor “margin” como propiedad global: top, bottom, right, left. Las 4 propiedas son píxeles, porcentaje, automático, como referencia del valor del font-size del elemento actual o del html.
  - Bordes (border). Representan el estilo que tendrán los bordes del elemento: border: [border-width || border-style || border-color | inherit] ;
  - Relleno (padding). Espacio entre el borde del elemento y su contenido. De la propiedad “padding” se derivan al igual que las otras propiedades anteriores en cuatro propiedades específicas a los cuatro lados, padding-top, padding-right, padding-bottom y padding-left.
- - Google Fonts - Podemos editar la fuente de nuestro documento a partir de Google Fonts. Una herramienta de Google que nos permite utilizar una gran variedad de fuentes, sin necesidad de descargarnoslas en nuestro ordenador. Un ejemplo sería:
-  
-  ``<!doctype html>
-<html>
-    <head>
-        <!-- Inserción de origen de fontawesome-->
-        <script src="https://kit.fontawesome.com/09f87768b9.js" crossorigin="anonymous"></script>
-        <!-- Opción 1 para insertar Google Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-         <link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400;500&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
-        <!-- Opción 2 para insertar Google Fonts, el @import se puede poner en un archivo css externo -->
-        <style>
-            @import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400;500&family=Roboto:wght@400;500&display=swap');
-        </style>
-     </head>
-    <body>
-        <!-- Elemento de Fontawesome-->
-        <i class="fa-solid fa-arrow-right-to-bracket fa-2xl"></i> 
-        <!-- Insertar estilo de Google Fonts-->
-        <p style="font-family: 'Edu VIC WA NT Beginner', cursive; font-size:30px" >chess game</p>
-    </body>
-</html>``
-
+ - Google Fonts - Podemos editar la fuente de nuestro documento a partir de Google Fonts. Una herramienta de Google que nos permite utilizar una gran variedad de fuentes, sin necesidad de descargarnoslas en nuestro ordenador. 
   
  En los dos próximos links os dejo, por un lado una web que me ha ayudado mucho con CSS, y, por otro, un tutorial de introducción a CSS como repaso.
   
