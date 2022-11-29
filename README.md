@@ -243,7 +243,9 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
    [Enlace a Práctica 7](https://github.com/oriol-larrazabal/ASIX1_M4UF1A7_DoItYourself_OriolLarrazabal "Enlace a práctica 7")
    
   + Práctica 8 y 9 - Clones de Do it Yourself
+  
   [Enlace a Práctica 8](https://github.com/oriol-larrazabal/https-github.com-ChristianMonrabal-ASIX1_M4UF1_Do-it-yourself_CLON4_ORIOLLARRAZABALgit "Enlace a práctica 8")
+  
   [Enlace a Práctica 9](https://github.com/oriol-larrazabal/https-github.com-JoanBecerril-ASIX1_M4UF1_DoItYourself_CLON3_OriolLarrazabal "Enlace a práctica 9")
   
   ### PROYECTO
