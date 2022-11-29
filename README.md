@@ -214,6 +214,8 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
   En el siguiente apartado voy a enlazar todas las prácticas para tenerlas a mano a la hora de repasar o estudiar. Así haremos unos apuntes que sean prácticos a la vez.
   
+  ![capt6-apmd](https://user-images.githubusercontent.com/113420705/204471689-11fa76b2-d350-452e-b050-17349039006b.png)
+  
   + Práctica 1 - Repaso GitHub
   
    [Enlace a Práctica 1](https://github.com/oriol-larrazabal/RepasoGitHub "Enlace a práctica 1")
