@@ -173,7 +173,8 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
  - Bordes (border). Representan el estilo que tendrán los bordes del elemento: border: [border-width || border-style || border-color | inherit] ;
  - Relleno (padding). Espacio entre el borde del elemento y su contenido. De la propiedad “padding” se derivan al igual que las otras propiedades anteriores en cuatro propiedades específicas a los cuatro lados, padding-top, padding-right, padding-bottom y padding-left.
  - Google Fonts - Podemos editar la fuente de nuestro documento a partir de Google Fonts. Una herramienta de Google que nos permite utilizar una gran variedad de fuentes, sin necesidad de descargarnoslas en nuestro ordenador. Un ejemplo sería:
-  <!doctype html>
+  
+  ``<!doctype html>
 <html>
     <head>
         <!-- Inserción de origen de fontawesome-->
@@ -193,7 +194,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
         <!-- Insertar estilo de Google Fonts-->
         <p style="font-family: 'Edu VIC WA NT Beginner', cursive; font-size:30px" >chess game</p>
     </body>
-</html>
+</html>``
 
   
  En los dos próximos links os dejo, por un lado una web que me ha ayudado mucho con CSS, y, por otro, un tutorial de introducción a CSS como repaso.
@@ -240,6 +241,10 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   + Práctica 7 - ASIX1_M4UF1A7_DoItYourself_OriolLarrazabal
   
    [Enlace a Práctica 7](https://github.com/oriol-larrazabal/ASIX1_M4UF1A7_DoItYourself_OriolLarrazabal "Enlace a práctica 7")
+   
+  + Práctica 8 y 9 - Clones de Do it Yourself
+  [Enlace a Práctica 8](https://github.com/oriol-larrazabal/https-github.com-ChristianMonrabal-ASIX1_M4UF1_Do-it-yourself_CLON4_ORIOLLARRAZABALgit "Enlace a práctica 8")
+  [Enlace a Práctica 9](https://github.com/oriol-larrazabal/https-github.com-JoanBecerril-ASIX1_M4UF1_DoItYourself_CLON3_OriolLarrazabal "Enlace a práctica 9")
   
   ### PROYECTO
   
