@@ -180,7 +180,6 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
 [Foro Códigos más importantes CSS](https://www.eniun.com/que-es-css-cascading-style-sheets "CSS")
 [Vídeo tutorial introducción a CSS](https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
-[Resolución de problemas CSS](https://developer.mozilla.org/es/docs/Learn/CSS/Howto "Resolver problemas comunes CSS"]
   
  Además, incluyo este código
 
