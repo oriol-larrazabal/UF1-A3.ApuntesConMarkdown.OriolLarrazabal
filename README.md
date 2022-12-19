@@ -78,6 +78,7 @@ d) Cómo introducir imágenes
 A su vez, Markdown nos permite introducir imágenes. Para introducir una imágen debemos poner un signo de exclamación y escribir el texto alternativo de la imagen entre corchetes y el URL que dirige a la imagen entre paréntesis.
 
 Como por ejemplo:
+
 ![google](https://user-images.githubusercontent.com/113420705/191205772-9891401d-f84d-4d89-bf7a-7c4130f8d378.png)
 
 e) Cómo introducir hipervínculos
