@@ -146,6 +146,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   Adjunto este código creado por mi mismo aplicando todos los diferentes conceptos que hemos visto en HTML hasta el momento.
   
   [Ejemplo de código HTML](https://mega.nz/file/aRhyQYTT#nck7OZgis6_b1-4NV4IzjsvBsRW1qhQ58MWm52J55fk "Ejemplo de código HTML")
+  [Notas de HTML](https://mx.godaddy.com/blog/10-codigos-html-para-paginas-web-y-para-que-sirven/ "Ejemplos en HTML")
   
 ### CSS
   
@@ -153,7 +154,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
  
  ![aprender-css](https://user-images.githubusercontent.com/113420705/194956966-8df737b7-7dfe-418d-a9fa-22514201687a.jpg)
   
-  >La propuesta CHSS fue realizada por Håkon Wium Lie y SSP fue propuesto por Bert Bos. Entre finales de 1994 y 1995 Lie y Bos se unieron para definir un nuevo lenguaje que tomaba lo mejor de cada propuesta y lo llamaron CSS (Cascading Style Sheets).
+  >La propuesta CSS fue realizada por Håkon Wium Lie y SSP fue propuesto por Bert Bos. Entre finales de 1994 y 1995 Lie y Bos se unieron para definir un nuevo lenguaje que tomaba lo mejor de cada propuesta y lo llamaron CSS (Cascading Style Sheets).
   
  ![maxresdefault](https://user-images.githubusercontent.com/113420705/194956900-4ba6ede9-845b-4628-838c-5e6827ad484e.jpg)
   
@@ -178,6 +179,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
   
 [Foro Códigos más importantes CSS](https://www.eniun.com/que-es-css-cascading-style-sheets "CSS")
 [Vídeo tutorial introducción a CSS](https://www.youtube.com/watch?v=24gNhTcy6pw&ab_channel=FalconMasters "Vídeo tutorial introducción CSS")
+[Resolución de problemas CSS](https://developer.mozilla.org/es/docs/Learn/CSS/Howto "Resolver problemas comunes CSS"]
   
  Además, incluyo este código
 
