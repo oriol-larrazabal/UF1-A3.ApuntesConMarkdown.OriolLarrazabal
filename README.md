@@ -162,7 +162,7 @@ En el _BODY_ podemos editar el cuerpo de nuestro archivo. En el podemos:
  Los detalles que hemos visto hasta el momento más importantes son:
  - Selector de elementos - Corresponde con todos los elementos de este nombre en la página.
  - Selector de clase - Corresponde con todos los elementos que tengan el atributo class con el valor especificado.
- - Selector de id -Corresponde a todos los elementos HTML que tienen un atributo id con el valor especificado.
+ - Selector de id - Corresponde a todos los elementos HTML que tienen un atributo id con el valor especificado.
  - Selectores universales - Sirven para seleccionar todos los elementos de la página. En el  ejemplo, todos los elementos han de tener un borde solido negro de un pixel:
  - Selectores de atributos - Permiten seleccionar elementos en función de los atributos que contienen.
  - Selectores de hijos - Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos.
